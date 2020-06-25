@@ -1,5 +1,5 @@
 # Juego 2d en Unity (Endless Runner)
-![Screenshot](Screenshots/juego.png)
+![Screenshot](Screenshots/Juego.png)
 Hola, este reprositorio fue creado a partir de el siguiente curso en Youtube:
 [Tutorial](https://www.youtube.com/playlist?list=PLvS4Ct-H_3MuwjEm8VZ5W-zvrH8xiNaWy)
 
